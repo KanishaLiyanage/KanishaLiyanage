@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilumkanisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilumkanisha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanisha liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanisha liyanage" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanisha-liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanisha-liyanage" height="30" width="40" /></a>
 <a href="https://kaggle.com/kanishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanishal" height="30" width="40" /></a>
-<a href="https://fb.com/kanisha liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanisha liyanage" height="30" width="40" /></a>
-<a href="https://instagram.com/kanisha liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanisha liyanage" height="30" width="40" /></a>
+<a href="https://fb.com/kanisha_liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanisha_liyanage" height="30" width="40" /></a>
+<a href="https://instagram.com/kanisha_liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanisha_liyanage" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
