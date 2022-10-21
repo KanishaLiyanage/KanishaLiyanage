@@ -11,7 +11,7 @@
 - 🌱 &ensp;I’m currently learning Flutter, Deep Learning, Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;Fun fact: I love programming & gaming
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
 ### Connect With Me
 
@@ -21,12 +21,11 @@
 <!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
 [<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
-
-
 <br />
 <br />
 
 ### Languages and Tools
+
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
 [<img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />]
@@ -44,11 +43,3 @@
 [<img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />]
 [<img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-
-
-[twitter]: https://twitter.com/dilumkanisha
-[linkedin]: https://linkedin.com/in/kanisha-liyanage
-[github]: https://github.com/KanishaLiyanage
-[instagram]: https://instagram.com/kanisha_liyanage
-[facebook]: https://facebook.com/kanisha.liyanage
-[email]: mailto:kanishaliyanage.dev@gmail.com
