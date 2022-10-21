@@ -27,6 +27,7 @@
 <img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt=“express.js” width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt=“Python” width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
 <img align="left" alt=“Tensorflow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt=“Keras” width="26px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
 <img align="left" alt=“OpenCV” width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
@@ -47,5 +48,6 @@
 <img alt=“AdobePhotoshop” width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" />
 
 <img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt=“Anaconda” width="26px" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="left" alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
