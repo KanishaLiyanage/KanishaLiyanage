@@ -8,7 +8,7 @@
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
-<br />
+
 
 ## Connect With Me
 
