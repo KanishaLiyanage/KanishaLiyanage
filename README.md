@@ -39,12 +39,12 @@
 <img align="left" alt=“PHP” width="26px" src="https://www.freepnglogos.com/uploads/logo-php-png/php-website-design-squared-brain-3.png" />
 <img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 
-<img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
- <img align="left" alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
+<img alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
 
-<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
-<img align="left" alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
+<img alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
+<img alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
