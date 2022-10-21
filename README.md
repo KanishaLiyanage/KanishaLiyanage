@@ -40,7 +40,7 @@
 <img alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <img alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
