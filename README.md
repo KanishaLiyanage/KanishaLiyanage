@@ -15,12 +15,8 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Kanisha Liyanage | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Kanisha Liyanage | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
-<!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
+[<img align="left" alt="Kanisha Liyanage | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />](https://twitter.com/dilumkanisha)
+[<img align="left" alt="Kanisha Liyanage | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://linkedin.com/in/kanisha-liyanage)
 <br />
 <br />
 
@@ -38,8 +34,11 @@
 <img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt=“CSS” width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<br />
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<br />
 <img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+<br />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
