@@ -18,7 +18,7 @@
 
 ---
 
-### Connect With Me
+## Connect With Me
 
 [<img align="left" alt="Kanisha Liyanage | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://linkedin.com/in/kanisha-liyanage)
 [<img align="left" alt="Kanisha Liyanage | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />](https://twitter.com/dilumkanisha)
@@ -30,7 +30,7 @@
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
