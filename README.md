@@ -29,7 +29,7 @@
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
-[<img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />]
+[<img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />]
 [<img align="left" alt=“npm” width="26px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />]
 [<img align="left" alt=“express.js” width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />]
@@ -38,7 +38,7 @@
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />]
 [<img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />]
 [<img align="left" alt=“CSS” width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />]
-[<img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />]
+[<img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />]
 [<img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />]
 [<img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />]
 [<img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />]
