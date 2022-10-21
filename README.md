@@ -7,7 +7,7 @@
 - 🌱 &ensp;I’m currently learning Deep Learning, Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
-- 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
+- 📫 &ensp;How to reach me: [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
 
 ## Connect With Me
