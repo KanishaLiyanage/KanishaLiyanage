@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://github.com/KanishaLiyanage?sub_confirmation=1">Kanisha Liyanage!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://github.com/KanishaLiyanage">Kanisha Liyanage!</a></h1>
 <h3 align="center">Check my LinkedIn profile to see who am I 😜</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisha-liyanage)
