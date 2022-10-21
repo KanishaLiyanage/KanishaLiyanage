@@ -38,7 +38,7 @@
 <img align="left" alt=“JavaScript” width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
 <img align="left" alt=“PHP” width="26px" src="https://www.freepnglogos.com/uploads/logo-php-png/php-website-design-squared-brain-3.png" />
 <img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-
+\
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
