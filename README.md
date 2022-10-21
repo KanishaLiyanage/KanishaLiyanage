@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 &ensp;I’m currently undergraduate in Computer Science
-- 🌱 &ensp;I’m currently learning Flutter, Deep Learning, Machine Learning
+- 🌱 &ensp;I’m currently learning Deep Learning, Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
@@ -43,7 +43,8 @@
 <img alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <img align="left" alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
+<img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
+<img alt=“AdobePhotoshop” width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" />
 
 <img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
