@@ -41,15 +41,10 @@
 
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<ul>
-<li>
+
  <img align="left" alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /></li>
-<li>
+
 <img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="left" alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
-</ul>
-
-
-
