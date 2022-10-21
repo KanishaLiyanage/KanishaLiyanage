@@ -10,7 +10,7 @@
 - 🔭 &ensp;I’m currently undergraduate in Computer Science
 - 🌱 &ensp;I’m currently learning Flutter, Deep Learning, Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
-- ⚡ &ensp;Fun fact: I love programming & gaming
+- ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
 ### Connect With Me
@@ -36,11 +36,10 @@
 <img align="left" alt=“OpenCV” width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-<img align="left" alt=“CSS” width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
+<img align="left" alt=“CSS” width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt=“HTML5” width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt=“AdobeIllustrator” width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
