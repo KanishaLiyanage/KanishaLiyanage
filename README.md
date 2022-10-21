@@ -14,9 +14,6 @@
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
 <br />
-<br />
-
----
 
 ## Connect With Me
 
@@ -26,9 +23,6 @@
 [<img align="left" alt="Kanisha Liyanage | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://instagram.com/kanisha_liyanage)
 
 <br />
-<br />
-
----
 
 ## Languages and Tools
 
