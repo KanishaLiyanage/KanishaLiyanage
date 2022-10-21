@@ -13,22 +13,32 @@
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
+<br />
+<br />
+
+---
+
 ### Connect With Me
 
-[<img align="left" alt="Kanisha Liyanage | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />](https://twitter.com/dilumkanisha)
 [<img align="left" alt="Kanisha Liyanage | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://linkedin.com/in/kanisha-liyanage)
+[<img align="left" alt="Kanisha Liyanage | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />](https://twitter.com/dilumkanisha)
+[<img align="left" alt="Kanisha Liyanage | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />](https://facebook.com/kanisha.liyanage)
+[<img align="left" alt="Kanisha Liyanage | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />](https://instagram.com/kanisha_liyanage)
+
 <br />
 <br />
+
+---
 
 ### Languages and Tools
 
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Node.js” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt=“npm” width="26px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt=“express.js” width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt=“Tensorflow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+<img align="left" alt=“Keras” width="26px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
 <img align="left" alt=“OpenCV” width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt=“NumPy” width="26px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 <img align="left" alt=“Panda” width="26px" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" />
