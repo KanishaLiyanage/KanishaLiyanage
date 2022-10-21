@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/KanishaLiyanage">Kanisha Liyanage!</a></h1>
-<h3 align="center">Check my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisha-liyanage) profile to see who am I 😜</h3>
+<h3 align="center">Check my <a href="https://linkedin.com/in/kanisha-liyanage">LinkedIn</a> profile to see who am I 😜</h3>
 
 <br />
 
