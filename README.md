@@ -14,9 +14,7 @@
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Twitter**](https://twitter.com/dilumkanisha) or [**Email**](mailto:kanishaliyanage.dev@gmail.com)
-
 <br />
-
 ## Connect With Me
 
 [<img align="left" alt="Kanisha Liyanage | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://linkedin.com/in/kanisha-liyanage)
