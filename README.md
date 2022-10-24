@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/KanishaLiyanage/" target="_blank" rel="noopener noreferrer">Kanisha Liyanage</a>!</h1>
 <h3 align="center">Check my <a href="https://linkedin.com/in/kanisha-liyanage/" target="_blank" rel="noopener noreferrer">LinkedIn</a> profile to see who am I 😜</h3>
 
