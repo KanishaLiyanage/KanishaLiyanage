@@ -44,7 +44,7 @@ https://kanisha-liyanage.vercel.app/
 <img align="left" alt=“PHP” width="26px" src="https://www.freepnglogos.com/uploads/logo-php-png/php-website-design-squared-brain-3.png" />
 <img alt=“MySQL” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 
-<img alt=“Heroku” width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img alt=“Heroku” align="left" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 <img align="left" alt=“Figma” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
