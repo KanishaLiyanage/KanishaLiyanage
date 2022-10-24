@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/KanishaLiyanage/" target="_blank" rel="noopener noreferrer">Kanisha Liyanage</a>!</h1>
+![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h3 align="center">Check my <a href="https://linkedin.com/in/kanisha-liyanage/" target="_blank" rel="noopener noreferrer">LinkedIn</a> profile to see who am I 😜</h3>
 
 <br />
@@ -55,3 +56,11 @@
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KanishaLiyanage)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishaLiyanage&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KanishaLiyanage)  
+
