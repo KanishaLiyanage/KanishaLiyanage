@@ -9,9 +9,6 @@
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishaliyanage&show_icons=true&theme=dark&locale=en" alt="kanishaliyanage" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishaliyanage&theme=dark" alt="kanishaliyanage" /></p>
-
 ## My Website
 
 <a href="https://kanisha-liyanage.vercel.app/" target="_blank" rel="noopener noreferrer">https://kanisha-liyanage.vercel.app</a>
@@ -57,4 +54,7 @@
 <img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="left" alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
+<img alt=“Unity” width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /></li>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishaliyanage&show_icons=true&theme=dark&locale=en" alt="kanishaliyanage" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishaliyanage&theme=dark" alt="kanishaliyanage" /></p>
