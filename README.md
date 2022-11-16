@@ -11,7 +11,7 @@
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
-## My Website
+## Website
 
 <a href="https://kanisha-liyanage.vercel.app/" target="_blank" rel="noopener noreferrer">https://kanisha-liyanage.vercel.app</a>
 
