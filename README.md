@@ -57,5 +57,5 @@
 <img align="left" alt=“Jupyter” width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img alt=“git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishaliyanage&show_icons=true&theme=dark&locale=en" alt="kanishaliyanage" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishaliyanage&theme=dark" alt="kanishaliyanage" /></p>
