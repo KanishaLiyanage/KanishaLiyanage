@@ -5,7 +5,7 @@
 
 <br />
 
-- 🎓 &ensp;BSc. in Computer Science undergraduate
+- 🎓 &ensp;BSc. in Computer Science (Undergraduate)
 - 🌱 &ensp;I’m currently learning Deep Learning, Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
