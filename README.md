@@ -1,12 +1,12 @@
 ![](https://github.com/KanishaLiyanage/KanishaLiyanage/blob/main/banner.jpg?raw=true)
 
 <h1 align="center"> Hi 👋, I'm <a href="https://kanisha-liyanage.vercel.app/">Kanisha Liyanage</a>!</h1>
-<h3 align="center">Check my <a href="https://kanisha-liyanage.vercel.app/">Website</a> or <a href="https://linkedin.com/in/kanisha-liyanage/">LinkedIn</a> profile to see who am I 😜</h3>
+<h3 align="center">Check my <a href="https://kanisha-liyanage.vercel.app/">Website</a> or <a href="https://linkedin.com/in/kanisha-liyanage/">LinkedIn</a> profile for more details</h3>
 
 <br />
 
 - 🎓 &ensp;BSc. in Computer Science
-- 🌱 &ensp;Interested Deep Learning, Machine Learning
+- 🌱 &ensp;Interested in Deep Learning & Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
 - ⚡ &ensp;I love programming & gaming
 - 📫 &ensp;How to reach me: [**Email**](mailto:kanishaliyanage.dev@gmail.com)
