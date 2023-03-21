@@ -8,7 +8,7 @@
 - 🎓 &ensp;BSc. in Computer Science
 - 🌱 &ensp;Interested in Deep Learning & Machine Learning
 - 👯 &ensp;I’m looking to collaborate with other developers
-- ⚡ &ensp;I love programming & gaming
+<!--- - ⚡ &ensp;I love programming & gaming -->
 - 📫 &ensp;How to reach me: [**Email**](mailto:kanishaliyanage.dev@gmail.com)
 
 ## Website
