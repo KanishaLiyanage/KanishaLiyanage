@@ -26,8 +26,6 @@
 
 ## Languages and Tools
 
-## Languages and Tools
-
 <p align="left">
     <img alt="Python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
     <img alt="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
