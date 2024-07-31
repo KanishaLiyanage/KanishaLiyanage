@@ -39,7 +39,7 @@
     <img alt="Keras" width="26px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />
     <img alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
     <img alt="NumPy" width="26px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
-    <img alt="Pandas" width="26px" src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" />
+    <img alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
     <img alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
     <img alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
     <img alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
