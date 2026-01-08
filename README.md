@@ -38,11 +38,11 @@ I enjoy working on **production-grade systems** that turn large-scale data into 
 
 ## Technologies
 
-**Programming & Scripting**
-- Python, SQL, Bash
-
 **Big Data & Data Platforms**
 - Apache Spark, Cloudera, Informatica, Hadoop (HDFS/YARN), Hive, Impala, Apache Ranger
+
+**Programming & Scripting**
+- Python, SQL, Bash
 
 **Machine Learning**
 - TensorFlow, Scikit-learn
